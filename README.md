@@ -7,7 +7,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-RonaldoZica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-zica/)](https://www.linkedin.com/in/ronaldo-zica/)
 
 <h2> 🔎 Descrição </h2> 
-<p> Projetos desenvolvidos durante o curso da RockeSeat introdutório ao Javascript.</p>
+<p> Projetos desenvolvidos durante o curso da RocketSeat introdutório ao Javascript.</p>
 
 <h2> 💻 IDE utilizada para desenvolver os projetos </h2> 
 <p> VSCode (Visual Studio Code) </p>
